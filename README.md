@@ -4,7 +4,7 @@ Assignment 2 HTML, CSS and Bootstrap
 This web https://www.google.com/url?q=https://anbo-easj.dk/index2.htm&sa=D&source=editors&ust=1664817425119215&usg=AOvVaw0bSaVggK0xHcTQdTp9KUqo
 page needs a more modern look and it must be responsive (adapt to different screen sizes, like laptop and mobile).
 
-Use HTML, CSS and Bootstrap.
+Use HTML, CSS and Bootstrap. 
 Use internal as well as external CSS.
 Use Bootstrap to make the web page adapt to the current screen size
 Hint: Bootstrap class=”container” and class=”row”
