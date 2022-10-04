@@ -43,7 +43,7 @@ nav > p > a:hover {
 }
 @media screen and (max-width: 500px) {
   nav {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 
